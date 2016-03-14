@@ -1,0 +1,22 @@
+{
+  "name": "memory-game",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "eddieduro <e.jamesduro@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6"
+  }
+}
